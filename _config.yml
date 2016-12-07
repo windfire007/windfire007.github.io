@@ -4,7 +4,7 @@ tagline: My Own Website
 email: i@windfire007.com
 description: > # this means to ignore newlines until "baseurl:"
   知足常乐
-#baseurl: "/gaya" # the subpath of your site, e.g. /blog/
+#baseurl: "/gaya" the subpath of your site, e.g. /blog/
 url: "http://windfire.space” # the base hostname & protocol for your site
 logourl: /assets/images/0000.png # Site logo
 author: “Bruce Lee”
