@@ -2,16 +2,14 @@
 title: Wind&Fire
 tagline: My Own Website
 email: i@windfire007.com
-description: > # this means to ignore newlines until "baseurl:"
+description: > 
   知足常乐
-#baseurl: "/gaya" the subpath of your site, e.g. /blog/
-url: "http://windfire.space” # the base hostname & protocol for your site
-logourl: /assets/images/0000.png # Site logo
-author: “Bruce Lee”
-author_thumbnail: “/assets/images/0000.png” # Author avatar
-# Theme customization - please change from the defaults!
+url: http://windfire.space
+logourl: /assets/images/0000.png
+author: Bruce Lee
+author_thumbnail: /assets/images/0000.png
 theme:
-  # Color for sidebar bar, links, etc
+
   highlight_color: "#205081" #205081" # "#272935"
   # Social media links, leave blank to ignore
   social: 
