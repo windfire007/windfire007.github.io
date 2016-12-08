@@ -1,41 +1,12 @@
 ---
 layout: page
 title: ”关于我“
-tags: [个人,博客]
-date: 2016-12-08
+date: 2016-12-08 19:12
+feature: ../img/0000.png
 ---
 
-<img src="../images/0000.png" width="20%" alt="图片名称" />
-蛤蛤蛤蛤
 
-![0000](https://raw.githubusercontent.com/windfire007/windfire007.github.io/master/images/0000.png)
 
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+![logo](../assets/img/logo.png)
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-​      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+这里是我的个人小站
