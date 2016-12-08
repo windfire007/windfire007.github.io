@@ -15,7 +15,11 @@ tag:
 
 为了以后方便，测试一下音乐和视频的插入
 
+
+
 ## 网易云
+
+---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=665343&auto=1&height=66"></iframe>
 
@@ -43,7 +47,7 @@ tag:
 
 ## 结果
 
-网易云iframe不支持
+网易云iframe不支持，flash莫名失败啊
 
 B站会员可见依旧会员可见
 
