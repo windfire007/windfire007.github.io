@@ -4,7 +4,8 @@ title:  "MathJax Example"
 date:   2015-08-10
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:
-- markdown 
+- markdown
+- 个人
 - mathjax
 - example
 - test
