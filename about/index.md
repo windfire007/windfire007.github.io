@@ -5,9 +5,10 @@ tags: [个人,博客]
 date: 2016-12-08
 ---
 
-
+<img src="../images/0000.png" width = "20" height = "20" alt="图片名称" />
 蛤蛤蛤蛤
 
+![0000](https://raw.githubusercontent.com/windfire007/windfire007.github.io/master/images/0000.png)
 
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
