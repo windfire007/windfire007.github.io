@@ -6,17 +6,8 @@ date:2016-12-08
 ---
 
 
+蛤蛤蛤蛤
 
-
-
-![0000](http://windfire007.github.io/images/0000.png)
-
-
-
-layout: page
-title: 关于我
-tags: [个人, Jekyll, theme, moon]
-date: 2016-12-08
 
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
