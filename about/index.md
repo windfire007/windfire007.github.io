@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ”关于我“
+title: 关于我
 date: 2016-12-08 19:12
 feature: ../img/0000.png
 ---
@@ -9,4 +9,22 @@ feature: ../img/0000.png
 
 ![logo](../assets/img/logo.png)
 
-这里是我的个人小站
+这里是我的个人小站，记录一些平时想要写下的东西，就是这样。
+
+一般能找到这里的，也该是认识我的人吧。
+
+随缘发现本站的，欢迎随时联系我，email：[i@windfire007.com](mailto:i@windfire007.com)
+
+也可以直接加我[QQ](http://shang.qq.com/email/stop/email_stop.html?qq=674826355)，不过腾讯这个功能貌似经常bug，随缘吧。
+
+或者去[我的贴吧](http://tieba.baidu.com/f?kw=%E9%A3%8Eand%E7%81%AB)留言，不过最近不常用贴吧了，有事请记得@我。
+
+
+
+---
+
+*本站模板来自于[Moon](http://taylantatli.github.io/Moon/)*
+
+*本站背景图[id=48663718](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=48663718)，经[waifu2x](http://waifu2x.udp.jp)放大。*
+
+*本文头图[id=52491248](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=52491248)。*
