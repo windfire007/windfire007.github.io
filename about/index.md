@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我以及本站
-date: 2016-12-08 19:12
+date: 2016-12-08
 feature: ../img/0000.png
 ---
 
