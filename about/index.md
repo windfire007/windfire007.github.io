@@ -1,9 +1,8 @@
 ---
-layout:page
-title:”关于我“
-tags:[个人,博客]
-date:2016-12-08
-
+layout: page
+title: ”关于我“
+tags: [个人,博客]
+date: 2016-12-08
 ---
 
 
