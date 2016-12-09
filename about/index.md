@@ -21,7 +21,7 @@ email：[i@windfire007.com](mailto:i@windfire007.com)
 
 或者去[我的贴吧](http://tieba.baidu.com/f?kw=%E9%A3%8Eand%E7%81%AB)留言，不过最近不常用贴吧了，有事请记得@我。
 
-如果本站有任何链接失效或者是其他错误，[**请联系我报错。**](mailto:i@windfire007.com?subject=%E9%A1%B5%E9%9D%A2%E5%A4%B1%E6%95%88)
+如果本站有任何链接失效或者是其他错误，[**请联系我报错**](mailto:i@windfire007.com?subject=%E9%A1%B5%E9%9D%A2%E5%A4%B1%E6%95%88)。
 
 
 
