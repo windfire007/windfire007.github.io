@@ -20,10 +20,10 @@ tag:
 * Frame Overlay
 * NTP Attribution
 
-制作完成后保存下来是.crx格式，使用方法就是直接拖进Chrome浏览器里。
+制作完成后保存下来是.crx格式，使用方法就是直接拖进Chrome浏览器里。不过自创皮肤不可在线同步，最好留一个备份。
 
-不过为了适应不同的分辨率，还可以选择背景图标的剧中、放大、平铺等等这些。
+不过为了适应不同的分辨率，还可以选择背景图标的居中、放大、平铺等等这些。
 
-我的这两个Chrome皮肤就是用这个网页做的：[Chrome皮肤-西行寺幽幽子](http://windfire.space/ChromeYuyuko)、[Chrome皮肤-南小鸟](http://windfire.space/ChromeKotori)
+我的这两个Chrome皮肤就是用这个网页做的：[Chrome皮肤-西行寺幽幽子](http://windfire.space/ChromeYuyuko)     [Chrome皮肤-南小鸟](http://windfire.space/ChromeKotori)
 
-*写这文章时，这两皮肤的文章我还没写呢……先预留个网址。*
+*写此文章时，这两皮肤的文章我还没写呢……先预留个网址。*
