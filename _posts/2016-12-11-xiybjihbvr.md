@@ -42,3 +42,7 @@ tag:
 [【粽子说】西游记后传最终章](http://www.bilibili.com/video/av6232373/)
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="http://static.hdslb.com/miniloader.swf" flashvars="aid=6232373&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
+---
+
+*本站初步打算写的常用链接终于写完了的说。。。*
