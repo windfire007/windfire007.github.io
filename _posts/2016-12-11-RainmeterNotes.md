@@ -27,4 +27,4 @@ tag:
 
 P.S. 便签用到的字体还是下载一下比较好，直接打开就可以安装：[华康少女文字W5](../file/0000.zip)
 
-幽幽子动图的素材的图源我找不到了……这个便签修改自[@百牧补眠中](http://tieba.baidu.com/home/main?un=%E7%99%BE%E7%89%A7%E8%A1%A5%E7%9C%A0%E4%B8%AD)的[【雨滴资源】少女样便签！超~~妹纸](http://tieba.baidu.com/p/2063086338)。
+幽幽子动图素材的图源我找不到了……这个便签修改自[@百牧补眠中](http://tieba.baidu.com/home/main?un=%E7%99%BE%E7%89%A7%E8%A1%A5%E7%9C%A0%E4%B8%AD)的[【雨滴资源】少女样便签！超~~妹纸](http://tieba.baidu.com/p/2063086338)。
