@@ -12,12 +12,12 @@
 }
 
 @font-face {
-  font-family: 'iconfont';  /* project id 200179 */
-  src: url('//at.alicdn.com/t/font_ouy1wg9t3hqcl3di.eot');
-  src: url('//at.alicdn.com/t/font_ouy1wg9t3hqcl3di.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_ouy1wg9t3hqcl3di.woff') format('woff'),
-  url('//at.alicdn.com/t/font_ouy1wg9t3hqcl3di.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_ouy1wg9t3hqcl3di.svg#iconfont') format('svg');
+    font-family: 'iconfont';
+    src: url('../fonts/iconfont.eot');
+    src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/iconfont.woff') format('woff'),
+         url('../fonts/iconfont.ttf') format('truetype'),
+         url('../fonts/iconfont.svg#iconfont') format('svg');
 }
 
 @font-face{
