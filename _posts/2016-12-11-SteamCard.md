@@ -8,7 +8,7 @@ tag:
 - steam
 ---
 
-[**Steam Card Exchange**](http://www.steamcardexchange.net)
+## [Steam Card Exchange](http://www.steamcardexchange.net)
 
 可以用来查询steam卡牌的信息以及开箱后会出的东西，包括价格和预览。搜索的话，点进标题的[SHOWCASE](http://www.steamcardexchange.net/index.php?showcase)。
 
