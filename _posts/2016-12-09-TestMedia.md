@@ -11,8 +11,6 @@ tag:
 - 网易云音乐
 ---
 
-
-
 为了以后方便，测试一下音乐和视频的插入
 
 
@@ -33,6 +31,8 @@ tag:
 
 ## B站
 
+---
+
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="http://static.hdslb.com/miniloader.swf" flashvars="aid=7350187&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 
 真神奇，这个哲学片竟然不和谐
@@ -46,6 +46,8 @@ tag:
 
 
 ## 结果
+
+---
 
 网易云莫名失败啊
 

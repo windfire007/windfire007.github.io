@@ -8,8 +8,6 @@ tag:
 - ACGN
 ---
 
-
-
 ## [アニメDVD・BD売り上げ一覧表まとめWiki](http://www38.atwiki.jp/uri-archive/)
 
 查一些销量排名的wiki，虽然说算法和[壁吧](http://tieba.baidu.com/f?kw=%C3%FB%D7%F7%D6%AE%B1%DA)也有些出入，但是看看无妨。之前倒是按着销量列表补了些番。

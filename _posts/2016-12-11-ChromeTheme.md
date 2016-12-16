@@ -9,7 +9,7 @@ tag:
 - 美化
 ---
 
-[**Chrome Theme Creator**](https://www.themebeta.com/chrome-theme-creator-online.html)
+## [Chrome Theme Creator](https://www.themebeta.com/chrome-theme-creator-online.html)
 
 可以在线制作chrome的皮肤，虽说chrome本来提供的皮肤就很多，但是总是没有自己满意的。想自己创作一个吧，以前谷歌给的皮肤编辑器功能太单一，只能改颜色和替换窗口内的图片。相比而言这个网站可以替换图片的地方就比较多了（名字懒得翻译了）：
 

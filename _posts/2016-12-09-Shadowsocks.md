@@ -8,9 +8,7 @@ tag:
 - 软件
 ---
 
-
-
-[**Convenience Store**](https://www.ssgodie.pw)
+## [Convenience Store](https://www.ssgodie.pw)
 
 一个卖梯子的网站，使用shadowsocks，也就是常说的SS或者影索。多平台通用，Win、Mac、Android我一直在用，ios的软件全局是收费的，有一个免费的只能浏览器代理。linux理论上应该也可用，不过之前用linux时没找到客户端，等有空用回linux再说吧。
 

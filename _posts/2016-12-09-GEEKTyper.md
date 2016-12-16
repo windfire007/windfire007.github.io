@@ -8,9 +8,7 @@ tag:
 - 装逼
 ---
 
-
-
-[**GEEKTyper**](http://geektyper.com/)
+## [GEEKTyper](http://geektyper.com/)
 
 知乎上看到的回答。[如何在网吧装逼？ - MadMel 的回答 - 知乎](https://www.zhihu.com/question/52724416/answer/132094540)
 
