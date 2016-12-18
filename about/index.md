@@ -27,6 +27,10 @@ email：[i@windfire007.com](mailto:i@windfire007.com)
 
 ### 版本历史
 
+**Version1.5.11-2016.12.18**
+
+1. 修改文章
+
 **Version1.5.10-2016.12.17**
 
 1. 更改超链接格式
