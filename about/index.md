@@ -27,7 +27,7 @@ email：[i@windfire007.com](mailto:i@windfire007.com)
 
 ### 版本历史
 
-**Version1.5.23-2017.01.01**
+**Version1.5.24-2017.01.01**
 
 1. 修改文章
 
