@@ -10,6 +10,6 @@ tag:
 
 ## [Windows Update Prank](http://fakeupdate.net/)
 
-提供各种电脑系统的安卓升级界面，从Win98到Win10，还包括Ubuntu、macOS、SteamOS的界面。浏览器打开后按F11全屏，就可以骗人啦。
+提供各种电脑系统的安装升级界面，从Win98到Win10，还包括Ubuntu、macOS、SteamOS的界面。浏览器打开后按F11全屏，就可以骗人啦。
 
-没事可以盯着进度条看……左下角可以选择语言。
+没事可以盯着进度条看……左下角可选择语言。
