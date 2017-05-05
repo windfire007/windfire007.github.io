@@ -13,9 +13,9 @@ tag:
 
 文章的内容反正就是自己需要记录的东西，做个整理之类的，也不求什么。
 
-域名一口气是买了三个，虽然很便宜。由于没有服务器，就只能用github pages+jekyll来搭建静态网页。域名也只能绑一个，也就是[windfire.space](http://windfire.space)。还有一个去做域名邮箱了[@windfire007.com](mailto:i@windfire007.com)，这个域名网站是上不去的，等日后再说吧。不过这域名邮箱支持的后轴真少，像.space就不能用。第三个域名啊，也先放着吧……
+域名一口气是买了三个，虽然很便宜。由于没有服务器，就只能用github pages+jekyll来搭建静态网页。域名也就是[windfire007.com](http://windfire007.com)。顺便还做了个域名邮箱[@windfire007.com](mailto:i@windfire007.com)。其余的域名等日后再说吧。不过这域名邮箱支持的后轴真少，像.space就不能用。
 
-装jekyll也出了点问题，直接用mac自动的ruby装貌似会失败。应该先拿brew装ruby，再装jekyll。不过由于是用模板，其实装不装jekyll没有啥区别，根本不需要。
+装jekyll也出了点问题，直接用mac自带的ruby装貌似会失败。应该先拿brew装ruby，再装jekyll。不过由于是用模板，其实装不装jekyll没有啥区别，根本不需要。
 
 那几个社交软件的图标，fontawesome支持的中文网站还是有点少，百度拿个熊抓就行，知乎是实在没办法，就用文字“知”代替，不过对齐不太好。QQ加好友的链接也是试验了半天，虽然算是凑合了，不过貌似经常bug，反正想加的人，已经给了足够的信息了……
 

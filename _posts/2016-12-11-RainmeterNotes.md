@@ -17,7 +17,7 @@ tag:
 
 [**雨滴-Rainmeter**](https://www.rainmeter.net/)
 
-有关于雨滴的一些事，我在另一篇文章里也说了，这里就不重复了。[雨滴皮肤-幽幽子系统监控](http://windfire.space/RainmeterDisk/)
+有关于雨滴的一些事，我在另一篇文章里也说了，这里就不重复了。[雨滴皮肤-幽幽子系统监控](http://windfire007.com/RainmeterDisk/)
 
 这是一个便签，正常情况是一个吃饭的幽幽子动图，点击即可变为一个便签。双击便签自动打开一个txt文本，可以直接更改便签内容，点击下边的蝴蝶结返回幽幽子动图。
 

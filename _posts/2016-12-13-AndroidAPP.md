@@ -9,9 +9,9 @@ tag:
 - 手机
 ---
 
-放弃了Sony后，开始转用iPhone，这篇文章也就留着吧，说不定等哪天我又回到了安卓阵营。软件列表也只到了2017年2月，现在的手机软件可以看[苹果软件列表](http://windfire.space/iOSAPP/)。
+放弃了Sony后，开始转用iPhone，这篇文章也就留着吧，说不定等哪天我又回到了安卓阵营。软件列表也只到了2017年2月，现在的手机软件可以看[苹果软件列表](http://windfire007.com/iOSAPP/)。
 
-这是一份自用软件的列表，也就是目前Android上所安装的软件。由于都是手机应用，所以也有些会和电脑上的重复，重复的就不说介绍了，具体的可以看[Win](http://windfire.space/WinAPP/)和[Mac](http://windfire.space/MacAPP/)的软件列表。由于各种客观原因，安卓手机过于碎片化，所以这里也列出Google和Sony Xperia的软件。大部分应用还是建议在Google Play Store里面下载。相对的Mac我倒是建议不要在Mas里下应用。
+这是一份自用软件的列表，也就是目前Android上所安装的软件。由于都是手机应用，所以也有些会和电脑上的重复，重复的就不说介绍了，具体的可以看[Win](http://windfire007.com/WinAPP/)和[Mac](http://windfire007.com/MacAPP/)的软件列表。由于各种客观原因，安卓手机过于碎片化，所以这里也列出Google和Sony Xperia的软件。大部分应用还是建议在Google Play Store里面下载。相对的Mac我倒是建议不要在Mas里下应用。
 
 ---
 
