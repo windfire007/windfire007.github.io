@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android应用推荐
+title: Android应用推荐(停更)
 date: 2016-12-13
 excerpt: 自用的Android软件列表合集
 tag: 
