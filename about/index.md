@@ -27,6 +27,11 @@ email：[i@windfire007.com](mailto:i@windfire007.com)
 
 ### 版本历史
 
+**Version1.6.19-2017.10.06**
+
+1. 更新博客
+2. 修改文章
+
 **Version1.6.12-2017.08.28**
 
 1. 修改文章
