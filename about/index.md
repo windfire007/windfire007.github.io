@@ -27,6 +27,10 @@ email：[i@windfire007.com](mailto:i@windfire007.com)
 
 ### 版本历史
 
+**Version1.7.3-2017.10.17**
+
+1. 修改文章
+
 **Version1.7.2-2017.10.16**
 
 1. 优化存储空间
