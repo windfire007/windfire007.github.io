@@ -11,9 +11,9 @@ tag:
 - 原创作品
 ---
 
-![0006](../img/0006.png)
+![0006](../img/0006.jpg)
 
-[**下载地址**](../file/0002.zip)
+[**下载地址**](../file/0002.7z)
 
 [**雨滴-Rainmeter**](https://www.rainmeter.net/)
 

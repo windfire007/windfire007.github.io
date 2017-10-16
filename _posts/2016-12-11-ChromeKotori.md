@@ -13,7 +13,7 @@ tag:
 
 ![0007](../img/0007.jpg)
 
-[**下载地址**](../file/0005.zip)
+[**下载地址**](../file/0005.7z)
 
 利用[Chrome Theme Creator](http://windfire007.com/ChromeTheme/)制作的第二款chrome皮肤，也是入LL坑后，想要做鸟的主题，于是和[鸟的搜狗输入法皮肤](http://windfire007.com/SogouInputKotori/)一起做出来的。这是在我电脑换成1080P后制作的皮肤，所以也是支持1080P的。不过由于我一直用的DEV版chrome，所以有段时间这个皮肤在高分辨率下一直有bug，外加自创的皮肤不能同步，所以也就不再用了……
 
