@@ -11,6 +11,10 @@ tag:
 - 编程
 ---
 
+最后还是决定放弃用捷径了，日常生活中我真的完全用不到这软件，也没有养成使用的习惯。本来还打算如果有什么新的捷径，还会在这篇文章中更新的，原文就先这么封存了。
+
+---
+
 捷径是一个提供工作流的软件，iOS12主打的新功能，来自于之前收购的[Workflow](http://www.workflow.is/)，并且可以和Siri深度整合。不过并不是系统应用，还需要额外去app store[下载](https://itunes.apple.com/cn/app/%E6%8D%B7%E5%BE%84/id915249334)。
 
 本质上捷径是一个批量操作的脚本，利用一些简单的编程语言可以很方便的自己制作脚本。苹果官方提供了一些常用的捷径，或者可以从网上去找别人分享的捷径。这里提供几个分享捷径的网站：[Shortcuts Gallery](https://shortcuts.sspai.com/)、[捷径社区](https://sharecuts.cn/)、[捷径盒](https://jiejinghe.com/)、[捷径库](http://jiejingapp.cn/)，在这几个网站中基本上可以找到任何你想要的捷径。
